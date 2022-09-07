@@ -5,4 +5,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popopododo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![kdw27501](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
